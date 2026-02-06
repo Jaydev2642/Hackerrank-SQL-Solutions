@@ -1,4 +1,4 @@
 # Hackerrank-SQL-Solutions
 The Solutions of the Hackerrank SQL Challenges executed on MySQL Environment.
 
-# Basic Select Challenge 
+# Basic Select Challenge
